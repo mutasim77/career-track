@@ -1,0 +1,214 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "title": "Backend Engineer",
+      "company": "DataSystems Inc.",
+      "location": "New York, NY",
+      "description": "DataSystems Inc. is looking for a Backend Engineer to help build and maintain our scalable server-side applications.",
+      "requirements": [
+        "5+ years of experience in backend development",
+        "Proficiency in Node.js and Express.js",
+        "Experience with databases (SQL and NoSQL)",
+        "Understanding of cloud services (AWS or Azure)"
+      ],
+      "salary": "$90,000 - $140,000",
+      "postedDate": "2024-07-18"
+    },
+    {
+      "id": "3",
+      "title": "UX/UI Designer",
+      "company": "CreativeSolutions",
+      "location": "Remote",
+      "description": "Join our creative team as a UX/UI Designer and help shape the user experience of our cutting-edge products.",
+      "requirements": [
+        "4+ years of experience in UX/UI design",
+        "Proficiency in design tools (Figma, Sketch)",
+        "Strong portfolio demonstrating user-centered design process",
+        "Experience with design systems"
+      ],
+      "salary": "$70,000 - $110,000",
+      "postedDate": "2024-07-20"
+    },
+    {
+      "id": "4",
+      "title": "DevOps Engineer",
+      "company": "CloudTech Solutions",
+      "location": "Austin, TX",
+      "description": "We're seeking a skilled DevOps Engineer to streamline our development and deployment processes.",
+      "requirements": [
+        "3+ years of experience in DevOps practices",
+        "Proficiency with containerization (Docker, Kubernetes)",
+        "Experience with CI/CD pipelines",
+        "Knowledge of infrastructure as code (Terraform, Ansible)"
+      ],
+      "salary": "$85,000 - $130,000",
+      "postedDate": "2024-07-22"
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "company": "Innovate Labs",
+      "location": "London",
+      "description": "Innovate Labs is looking for a versatile Full Stack Developer to work on exciting projects across our technology stack.",
+      "requirements": [
+        "4+ years of full stack development experience",
+        "Proficiency in both frontend (React or Vue) and backend (Node.js) technologies",
+        "Experience with database design and ORM frameworks",
+        "Familiarity with Agile development methodologies"
+      ],
+      "salary": "$95,000 - $110,000",
+      "postedDate": "2024-07-23T10:16:37.132Z"
+    },
+    {
+      "id": "6",
+      "title": "Senior Data Scientist",
+      "company": "DataMind Analytics",
+      "location": "New York",
+      "description": "DataMind Analytics is seeking a Senior Data Scientist to lead our machine learning initiatives and drive data-driven decision making across the organization.",
+      "requirements": [
+        "PhD in Computer Science, Statistics, or related field",
+        "5+ years experience in applied machine learning",
+        "Proficiency in Python, R, and SQL",
+        "Experience with big data technologies like Hadoop and Spark"
+      ],
+      "salary": "$120,000 - $180,000",
+      "postedDate": "2024-07-25"
+    },
+    {
+      "id": "7",
+      "title": "UI/UX Designer",
+      "company": "PixelPerfect Design",
+      "location": "San Francisco",
+      "description": "Join our creative team at PixelPerfect Design to craft beautiful and intuitive user interfaces for web and mobile applications.",
+      "requirements": [
+        "3+ years of UI/UX design experience",
+        "Proficiency in Figma, Sketch, and Adobe Creative Suite",
+        "Strong portfolio demonstrating a range of design projects",
+        "Understanding of user-centered design principles"
+      ],
+      "salary": "$80,000 - $100,000",
+      "postedDate": "2024-07-23T07:51:31.263Z"
+    },
+    {
+      "id": "8",
+      "title": "DevOps Engineer",
+      "company": "CloudScale Solutions",
+      "location": "Remote",
+      "description": "CloudScale Solutions is looking for a skilled DevOps Engineer to streamline our deployment processes and manage our cloud infrastructure.",
+      "requirements": [
+        "4+ years of DevOps experience",
+        "Proficiency with AWS or Azure cloud platforms",
+        "Experience with containerization and orchestration (Docker, Kubernetes)",
+        "Strong scripting skills (Python, Bash)"
+      ],
+      "salary": "$100,000 - $140,000",
+      "postedDate": "2024-07-27"
+    },
+    {
+      "id": "9",
+      "title": "Product Manager",
+      "company": "InnovateTech",
+      "location": "Boston",
+      "description": "InnovateTech is seeking a Product Manager to lead the development and launch of our new SaaS platform.",
+      "requirements": [
+        "5+ years of product management experience in the tech industry",
+        "Strong analytical and problem-solving skills",
+        "Excellent communication and stakeholder management abilities",
+        "Experience with Agile methodologies"
+      ],
+      "salary": "$110,000 - $160,000",
+      "postedDate": "2024-07-28"
+    },
+    {
+      "id": "10",
+      "title": "Blockchain Developer",
+      "company": "CryptoInnovate",
+      "location": "Berlin",
+      "description": "CryptoInnovate is looking for a Blockchain Developer to help build decentralized applications and smart contracts.",
+      "requirements": [
+        "3+ years of experience in blockchain development",
+        "Proficiency in Solidity and Ethereum ecosystem",
+        "Strong understanding of cryptography and consensus mechanisms",
+        "Experience with web3.js or ethers.js"
+      ],
+      "salary": "€80,000 - €120,000",
+      "postedDate": "2024-07-29"
+    },
+    {
+      "id": "11",
+      "title": "Cybersecurity Analyst",
+      "company": "SecureNet Defenses",
+      "location": "Washington D.C.",
+      "description": "Join SecureNet Defenses to protect critical infrastructure from cyber threats and enhance our clients' security posture.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in cybersecurity",
+        "CISSP or CEH certification",
+        "Familiarity with NIST cybersecurity framework"
+      ],
+      "salary": "$90,000 - $130,000",
+      "postedDate": "2024-07-30"
+    },
+    {
+      "id": "12",
+      "title": "Machine Learning Engineer",
+      "company": "AI Frontiers",
+      "location": "Seattle",
+      "description": "AI Frontiers is seeking a Machine Learning Engineer to develop and deploy state-of-the-art ML models for various applications.",
+      "requirements": [
+        "Master's or PhD in Computer Science or related field",
+        "Strong background in machine learning and deep learning",
+        "Proficiency in PyTorch or TensorFlow",
+        "Experience with ML model deployment in production environments"
+      ],
+      "salary": "$130,000 - $180,000",
+      "postedDate": "2024-07-31"
+    },
+    {
+      "id": "13",
+      "title": "Mobile App Developer (iOS)",
+      "company": "AppCraft Mobile",
+      "location": "Austin",
+      "description": "AppCraft Mobile is looking for an experienced iOS developer to create engaging and performant mobile applications.",
+      "requirements": [
+        "4+ years of iOS development experience",
+        "Proficiency in Swift and Objective-C",
+        "Familiarity with RESTful APIs and JSON",
+        "Experience with Core Data and SQLite"
+      ],
+      "salary": "$90,000 - $140,000",
+      "postedDate": "2024-08-01"
+    },
+    {
+      "id": "14",
+      "title": "Database Administrator",
+      "company": "DataGuard Systems",
+      "location": "Chicago",
+      "description": "DataGuard Systems needs a skilled Database Administrator to manage and optimize our large-scale database systems.",
+      "requirements": [
+        "5+ years of experience as a DBA",
+        "Expert knowledge of Oracle and MySQL",
+        "Experience with database performance tuning and optimization",
+        "Familiarity with data backup and recovery procedures"
+      ],
+      "salary": "$100,000 - $150,000",
+      "postedDate": "2024-08-02"
+    },
+    {
+      "id": "15",
+      "title": "Technical Writer",
+      "company": "DocuMentor",
+      "location": "Portland",
+      "description": "DocuMentor is seeking a Technical Writer to create clear and concise documentation for complex software systems.",
+      "requirements": [
+        "3+ years of technical writing experience in the software industry",
+        "Strong writing and editing skills",
+        "Familiarity with markup languages (e.g., Markdown, reStructuredText)",
+        "Experience with documentation tools like MadCap Flare or Sphinx"
+      ],
+      "salary": "$70,000 - $100,000",
+      "postedDate": "2024-08-03"
+    }
+  ]
+}
